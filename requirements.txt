@@ -1,0 +1,13 @@
+ipykernel
+pandas
+openpyxl
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+scikit-learn
+openai
+tiktoken
+plotly
+python-dotenv
+nbformat>=4.2.0
